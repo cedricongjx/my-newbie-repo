@@ -1,0 +1,52 @@
+/* Style for the headings */
+h1 {
+    color: #FF0000;  /* red */
+}
+
+h2 {
+    color: #0000FF;  /* blue */
+}
+
+h3 {
+    color: #008000;  /* green */
+}
+
+h4 {
+    color: #800080;  /* purple */
+}
+
+h5 {
+    color: #FFA500;  /* orange */
+}
+
+h6 {
+    color: #8B4513;  /* brown */
+}
+
+/* Style for the lists */
+ul {
+    color: #808080;  /* grey */
+}
+
+ol li {
+    color: #008080;  /* teal */
+}
+
+/* Style for the link */
+a {
+    color: #00008B;  /* darkblue */
+    text-decoration: none;  /* This removes the default underline from the link */
+}
+
+a:hover {
+    color: #FFD700;  /* gold */
+}
+
+/* Style for the div and paragraph */
+div {
+    color: #EE82EE;  /* violet */
+}
+
+p {
+    color: #000000;  /* black */
+}
